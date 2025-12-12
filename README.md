@@ -1,0 +1,3 @@
+# supervised_and_unsupervised_learning_scikit_learn
+
+SVM(different_kernels)_KNN_NaiveBayes_SupervisedLearning
